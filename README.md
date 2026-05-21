@@ -1,13 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0D1117&random=false&width=500&lines=HI+I'M+ABDUL+KADER)](https://github.com/devabdulkader)
 
-I’m a **Front Mern-Stack Developer** from Bangladesh 🇧🇩 who is passionate about making Full Stack Projects using Mern-Stack. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
+I’m a Full Stack Developer from Bangladesh 🇧🇩 focused on building scalable, real-world applications. Over the years, I’ve grown into full-stack engineering, working with modern web technologies, backend systems, APIs, real-time features, containerized deployments, and CI/CD pipelines.
+
+I’m passionate about solving real-world problems through clean architecture, performance optimization, and efficient system design. I enjoy continuously learning new technologies and sharing knowledge with the community.
 
 🖥️ Want to know more about me ? [**Check out my Portfolio**](https://dev-abdul-kader.vercel.app).
 
 <!-- - 🔭 I’m currently working on **Backend** -->
 
-- 🌱 Currently working as a MERN Stack Developer at ZORG IT GROUP
-- 💬 Ask me about **Javascript, React or Anything**
+- 🌱 Currently working as a Full Stack Developer
+- 💬 Ask me about **JavaScript, React, Backend or Anything**
 - 📫 How to reach me: [devabdulemail@gmail.com](mailto:devabdulemail@gmail.com)
 - 😄 Pronouns: he/him
 

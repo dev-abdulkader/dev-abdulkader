@@ -4,7 +4,7 @@ I’m a Full Stack Developer from Bangladesh 🇧🇩 focused on building scalab
 
 I’m passionate about solving real-world problems through clean architecture, performance optimization, and efficient system design. I enjoy continuously learning new technologies and sharing knowledge with the community.
 
-🖥️ Want to know more about me ? [**Check out my Portfolio**](https://dev-abdul-kader.vercel.app).
+🖥️ Want to know more about me ? [**Check out my Portfolio**](https://abdulkader.site).
 
 <!-- - 🔭 I’m currently working on **Backend** -->
 
